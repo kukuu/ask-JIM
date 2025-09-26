@@ -17,6 +17,6 @@ The algorithm expects continuous real-time data ingestion from the WebSocket lay
 
 Ultimately, **JIM** transforms server2.js from a simple data simulator into an intelligent energy analytics platform by combining real-time data processing, pattern recognition, predictive modeling, and natural language understanding - all while maintaining the low-latency requirements essential for interactive energy management decision support.
 
-This work epitomises technical depth of engineering system thinking in Computer Science, encapsulating Artificial Intelligence, Machine Learning, Large Language Modelling, Natural Language Processing, Mathematics and Physics brought together.
+This work epitomises technical depth of engineering systemS thinking in Computer Science, encapsulating Artificial Intelligence, Machine Learning, Large Language Modelling, Natural Language Processing, Mathematics and Physics brought together.
 
 To see it in action visit **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter .
