@@ -11,11 +11,11 @@ The RAG component dynamically constructs context by analysing temporal patterns 
 
 The pipeline's intelligence is enhanced by the server component file's real-time data simulation, which models UK electricity usage patterns with peak-hour multipliers (1.5x-2x normal consumption) and overnight reductions (50-70%). This simulated data provides the training context for **JIM'**s analytical responses, enabling it to make evidence-based recommendations like load shifting strategies that could yield 10-15% savings.
 
-**JIM**'s response generation employs dynamic templated HTML output with structured data visualization, presenting findings through categorized statistics, bullet-point recommendations, and cost-impact analyses. The system maintains conversation context through timestamped question-answer pairs while enforcing data freshness by always querying the most recent 50 records.
+**JIM**'s response generation employs dynamic templated HTML output with structured data visualisation, presenting findings through categorized statistics, bullet-point recommendations, and cost-impact analyses. The system maintains conversation context through timestamped question-answer pairs while enforcing data freshness by always querying the most recent 50 records.
 
 The algorithm expects continuous real-time data ingestion from the WebSocket layer, which generates new readings every 2 seconds and persists them to Supabase every 60 seconds. This ensures **JIM**'s analyses are always based on current system states rather than historical data alone. The health check endpoint (/health) provides pipeline monitoring, verifying both the LLM service availability and underlying data connectivity.
 
-Ultimately, **JIM** transforms server2.js from a simple data simulator into an intelligent energy analytics platform by combining real-time data processing, pattern recognition, predictive modeling, and natural language understanding - all while maintaining the low-latency requirements essential for interactive energy management decision support.
+Ultimately, **JIM** transforms the server component's  simple data simulator into an intelligent energy analytics platform by combining real-time data processing, pattern recognition, predictive modeling, and natural language understanding - all while maintaining the low-latency requirements essential for interactive energy management decision support.
 
 This work epitomises technical depth of engineering systemS thinking in Computer Science, encapsulating Artificial Intelligence, Machine Learning, Large Language Modelling, Natural Language Processing, Mathematics and Physics brought together.
 
