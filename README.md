@@ -9,7 +9,7 @@ When a query contains statistical keywords like "stat" or "analysis," **JIM** ex
 
 The RAG component dynamically constructs context by analysing temporal patterns from the database, identifying peak consumption hours (2:00 PM - 6:00 PM) and correlating them with tariff rates. For performance optimization queries, **JIM** implements anomaly detection by comparing meter fluctuations against baseline consumption patterns, flagging Meter 3's peak-hour spikes as optimization targets.
 
-The pipeline's intelligence is enhanced by the server component file's real-time data simulation, which models UK electricity usage patterns with peak-hour multipliers (1.5x-2x normal consumption) and overnight reductions (50-70%). This simulated data provides the training context for **JIM'**s analytical responses, enabling it to make evidence-based recommendations like load shifting strategies that could yield 10-15% savings.
+The pipeline's intelligence is enhanced by the server component file's real-time data simulation, which models UK electricity usage patterns with peak-hour multipliers (1.5x-2x normal consumption) and overnight reductions (50-70%). This simulated data provides the training context for **JIM**'s analytical responses, enabling it to make evidence-based recommendations like load shifting strategies that could yield 10-15% savings.
 
 **JIM**'s response generation employs dynamic templated HTML output with structured data visualisation, presenting findings through categorized statistics, bullet-point recommendations, and cost-impact analyses. The system maintains conversation context through timestamped question-answer pairs while enforcing data freshness by always querying the most recent 50 records.
 
