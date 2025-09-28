@@ -1,5 +1,6 @@
 # "Ask-JIM"
 
+Author: _Alexander Adu-Sarkodie_
 
 The **JIM AI Engine** is a unique custom domain based AI, LLM, NLP, ML, RAG pipeline orchestrator.
 
@@ -21,4 +22,4 @@ This work epitomises technical depth of engineering systems thinking in Computer
 
 To see it in action visit **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter .
 
-Author: _Alexander Adu-Sarkodie_
+
