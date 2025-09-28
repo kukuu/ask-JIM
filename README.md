@@ -3,7 +3,7 @@
 
 The **JIM AI Engine** is a unique custom domain based AI, LLM, NLP, ML, RAG pipeline orchestrator.
 
-It's server backend component leverages its core LLM-NLP-RAG pipeline orchestrator through a sophisticated multi-layered algorithm that processes natural language queries against real-time energy data. The pipeline begins with an HTTP POST endpoint (/api/llm/query) that receives user questions and employs pattern-matching NLP to categorize queries into specific analytical domains - statistical analysis, load forecasting, performance evaluation, or tariff optimization.
+It's server backend component leverages the core LLM-NLP-RAG pipeline orchestrator through a sophisticated multi-layered algorithm that processes natural language queries against real-time energy data. The pipeline begins with an HTTP POST endpoint (/api/llm/query) that receives user questions and employs pattern-matching NLP to categorize queries into specific analytical domains - statistical analysis, load forecasting, performance evaluation, or tariff optimization.
 
 When a query contains statistical keywords like "stat" or "analysis," **JIM** executes a true RAG pipeline by querying Supabase for the latest 50 meter readings, then performs real-time aggregation to calculate averages, maximums, and minimums per meter. For load-related queries, the engine simulates predictive scenarios using the same consumption algorithms that generate live meter data, applying 20-25% load increases and calculating corresponding cost impacts based on time-of-use tariff structures.
 
