@@ -20,3 +20,5 @@ Ultimately, **JIM** transforms the server component's  simple data simulator int
 This work epitomises technical depth of engineering systems thinking in Computer Science, encapsulating Artificial Intelligence, Machine Learning, Large Language Modelling, Natural Language Processing, Mathematics and Physics brought together.
 
 To see it in action visit **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter .
+
+Author: _Alexander Adu-Sarkodie_
