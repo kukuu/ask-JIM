@@ -1,6 +1,6 @@
 # "Ask-JIM"
 
-Author: _Alexander Adu-Sarkodie_
+(Author: _Alexander Adu-Sarkodie_)
 
 
 The **JIM AI Engine** is a unique custom domain based AI, LLM, NLP, ML, RAG pipeline orchestrator.
