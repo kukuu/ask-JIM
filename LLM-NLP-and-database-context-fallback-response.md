@@ -58,10 +58,9 @@ The following are some  global NLP semantic querries and fallbacks that have bee
  - Professional, analytical tone rather than generic responses
 
 - What to Look For:
- - Response includes "source": "langchain" in the JSON response
- - Console shows "🤖 Using LangChain for analysis"
- - Answers are more detailed and analytical than the fallback responses
-
-References to energy industry context and specific data points
+  - Response includes "source": "langchain" in the JSON response
+  - Console shows "🤖 Using LangChain for analysis"
+  - Answers are more detailed and analytical than the fallback responses
+  - References to energy industry context and specific data points
 
 ## Fallback
