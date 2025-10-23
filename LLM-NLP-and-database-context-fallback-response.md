@@ -1,4 +1,4 @@
-# Ask JIM Querry Tests
+# "Ask JIM" Querry Tests
 
 The following are some  global NLP semantic querries and fallbacks that have been used to test ''Ask JIM'' from https://www.energytariffscheck.com/newsletter
 
