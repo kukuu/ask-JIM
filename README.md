@@ -34,7 +34,7 @@ To see it in action kindly visit and log into **SPYDER**  https://www.energytari
 - REACT
 - OpenAI, LLM/ML, RAG, Pinecone
 - Supabase
-- PostGreSQL
+- PostgreSQL
 - PRISMA ORM
 - MongoDB 
 - Apache KAFKA
