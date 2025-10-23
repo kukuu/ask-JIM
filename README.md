@@ -23,11 +23,15 @@ This work epitomises technical depth of engineering systems thinking in Computer
 
 To see it in action kindly visit and log into **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter .
 
-
-## Testing LLM-NLP  and Fallback Querries and Context
+**Technologies and Practices**
 
 https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
 
-**Portfolio**: https://github.com/kukuu/portfolio/blob/main/README.md
+**Testing LLM-NLP  and Fallback Querries and Context**
+
+https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
+
+## Portfolio:
+https://github.com/kukuu/portfolio/blob/main/README.md
 
 
