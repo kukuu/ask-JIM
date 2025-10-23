@@ -64,3 +64,6 @@ The following are some  global NLP semantic querries and fallbacks that have bee
   - References to energy industry context and specific data points
 
 ## Fallback
+
+- Show worst-performing meters this week
+- What if meter load increases by 20%
