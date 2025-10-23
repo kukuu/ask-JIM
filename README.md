@@ -24,6 +24,51 @@ This work epitomises technical depth of engineering systems thinking in Computer
 To see it in action kindly visit and log into **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter .
 
 
+## Technologies and Practices
+  
+- Node
+- EXPRESS
+- JavaScript/TypeScript
+- Python
+- REACT
+- OpenAI, LLM/ML, RAG, Pinecone
+- Supabase
+- PostGreSQL
+- PRISMA ORM
+- MongoDB 
+- Apache KAFKA
+- Microservices
+- NextJS
+- GraphQL/Apollo Server
+- Websocket
+- Prometheus
+- Elasticsearch
+- KIBANA
+- Kubernetes
+- Docker
+- Logstash
+- Grafana
+- Render
+- Vercel
+- AWS
+- GCP
+- ARIMA
+- LSTM
+- Datadog
+- OWASP ZAP
+- SENTRY
+- SONARCUBE
+- Jest
+- Cypress
+- Tailwind CSS
+- Material UI
+- JIRA
+- Confluence
+- Docker/Kubernetes
+- Jenkins, CI/CD
+- Agile
+
+
 **Portfolio**: https://github.com/kukuu/portfolio/blob/main/README.md
 
 
