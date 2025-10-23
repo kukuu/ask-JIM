@@ -68,6 +68,9 @@ To see it in action kindly visit and log into **SPYDER**  https://www.energytari
 - Jenkins, CI/CD
 - Agile
 
+## Testing LLM-NLP  and Fallback Querries and Context
+
+https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
 
 **Portfolio**: https://github.com/kukuu/portfolio/blob/main/README.md
 
