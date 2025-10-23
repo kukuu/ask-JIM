@@ -29,6 +29,7 @@ To see it in action kindly visit and log into **SPYDER**  https://www.energytari
 - Node
 - EXPRESS
 - JavaScript/TypeScript
+- NextJS
 - Python
 - REACT
 - OpenAI, LLM/ML, RAG, Pinecone
@@ -38,7 +39,7 @@ To see it in action kindly visit and log into **SPYDER**  https://www.energytari
 - MongoDB 
 - Apache KAFKA
 - Microservices
-- NextJS
+
 - GraphQL/Apollo Server
 - Websocket
 - Prometheus
