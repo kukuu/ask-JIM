@@ -24,50 +24,6 @@ This work epitomises technical depth of engineering systems thinking in Computer
 To see it in action kindly visit and log into **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter .
 
 
-## Technologies and Practices
-  
-- Node
-- EXPRESS
-- JavaScript/TypeScript
-- NextJS
-- Python
-- REACT
-- OpenAI, LLM/ML, RAG, Pinecone
-- Supabase
-- PostgreSQL
-- PRISMA ORM
-- MongoDB 
-- Apache KAFKA
-- Microservices
-
-- GraphQL/Apollo Server
-- Websocket
-- Prometheus
-- Elasticsearch
-- KIBANA
-- Kubernetes
-- Docker
-- Logstash
-- Grafana
-- Render
-- Vercel
-- AWS
-- GCP
-- ARIMA
-- LSTM
-- Datadog
-- OWASP ZAP
-- SENTRY
-- SONARCUBE
-- Jest
-- Cypress
-- Tailwind CSS
-- Material UI
-- JIRA
-- Confluence
-- Jenkins, CI/CD
-- Agile
-
 ## Testing LLM-NLP  and Fallback Querries and Context
 
 https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
