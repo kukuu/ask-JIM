@@ -65,7 +65,6 @@ To see it in action kindly visit and log into **SPYDER**  https://www.energytari
 - Material UI
 - JIRA
 - Confluence
-- Docker/Kubernetes
 - Jenkins, CI/CD
 - Agile
 
