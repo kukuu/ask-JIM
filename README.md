@@ -3,7 +3,7 @@
 (Author and Owner: _Alexander Adu-Sarkodie_)
 
 
-The **JIM AI Engine** is a unique custom domain based AI, LLM, NLP, ML, RAG pipeline orchestrator.  
+The **Ask JIM** AI engine is a unique custom domain based AI, LLM, NLP, ML, RAG pipeline orchestrator.  
 
 It's  backend server component leverages the core LLM-NLP-RAG pipeline through a sophisticated multi-layered algorithm that processes natural language queries against real-time energy data. The pipeline begins with an HTTP POST endpoint (/api/llm/query) that receives user questions and employs pattern-matching NLP to categorize queries into specific analytical domains - statistical analysis, load forecasting, performance evaluation, or tariff optimization.  
 
