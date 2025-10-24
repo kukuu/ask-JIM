@@ -31,7 +31,7 @@ https://github.com/kukuu/ask-JIM/blob/main/analytics-guide.md
 
 https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
 
-**Tests: LLM-NLP  and Fallback Querries with Context**
+**Tests: LLM-NLP  with Fallback Querries and Context**
 
 https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
 
