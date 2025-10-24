@@ -19,22 +19,16 @@
   - "Which renewable energy options provide the best return on investment for my situation?"
 
 - Predictive Analytics & Planning
-"Based on my meter data, what will my energy costs be next quarter?"
+  - "Based on my meter data, what will my energy costs be next quarter?"
+  - "How can I prepare for seasonal energy price fluctuations?"
+  - "What smart home technologies would provide the best energy savings for my home?"
+  - "Should I consider solar panels or battery storage based on my consumption patterns?"
 
-"How can I prepare for seasonal energy price fluctuations?"
+- Social Responsibility & Community Impact
+  - "How does my energy efficiency contribute to broader environmental goals?"
+  - "What community energy initiatives could I participate in to reduce collective costs?"
+  - "How can I track and improve my household's energy social impact score?"
+  - "What behavioral changes would have the biggest environmental and financial impact?"
 
-"What smart home technologies would provide the best energy savings for my home?"
 
-"Should I consider solar panels or battery storage based on my consumption patterns?"
-
-Social Responsibility & Community Impact
-"How does my energy efficiency contribute to broader environmental goals?"
-
-"What community energy initiatives could I participate in to reduce collective costs?"
-
-"How can I track and improve my household's energy social impact score?"
-
-"What behavioral changes would have the biggest environmental and financial impact?"
-
-JIM combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalized, actionable insights that save you money while reducing your environmental footprint.
 
