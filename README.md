@@ -23,6 +23,10 @@ This work epitomises technical depth of engineering systems thinking in Computer
 
 To see it in action kindly visit and log into **SPYDER**  https://www.energytariffscheck.com/ and its designated  **NEWSLETTER** section - https://www.energytariffscheck.com/newsletter where **JIM** is hilighted.
 
+**Analytics Guide**
+
+https://github.com/kukuu/ask-JIM/blob/main/analytics-guide.md
+
 **Technologies and Practices**
 
 https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
