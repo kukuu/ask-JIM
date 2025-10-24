@@ -2,15 +2,12 @@
 
 - Energy Intelligence & Analysis
   - "What are the current electricity tariff trends in the UK market and how can I optimize my consumption?"
+  - "Analyze my energy consumption patterns and recommend personalized savings strategies"
+  - "How do wholesale energy prices impact my household bills and what can I do about it?"
+  - "Compare fixed vs variable tariffs based on my specific usage profile and consumption data"
 
-"Analyze my energy consumption patterns and recommend personalized savings strategies"
-
-"How do wholesale energy prices impact my household bills and what can I do about it?"
-
-"Compare fixed vs variable tariffs based on my specific usage profile and consumption data"
-
-Smart Consumption Optimization
-"What time-of-use tariff would work best for my household's energy consumption patterns?"
+- Smart Consumption Optimization
+ - "What time-of-use tariff would work best for my household's energy consumption patterns?"
 
 "Which appliances are driving my peak energy costs and how can I schedule them efficiently?"
 
