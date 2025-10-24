@@ -29,7 +29,7 @@ https://github.com/kukuu/ask-JIM/blob/main/analytics-guide.md
 
 **Technologies and Practices**
 
-https://github.com/kukuu/ask-JIM/blob/main/LLM-NLP-and-database-context-fallback-response.md
+https://github.com/kukuu/ask-JIM/blob/main/technologies-and-practices.md
 
 **Tests: LLM-NLP  with Fallback Querries and Context**
 
