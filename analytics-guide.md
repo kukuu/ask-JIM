@@ -1,7 +1,7 @@
 # Analysis Guide
 
 - Energy Intelligence & Analysis
- - "What are the current electricity tariff trends in the UK market and how can I optimize my consumption?"
+  - "What are the current electricity tariff trends in the UK market and how can I optimize my consumption?"
 
 "Analyze my energy consumption patterns and recommend personalized savings strategies"
 
