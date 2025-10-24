@@ -7,7 +7,7 @@
   - "Compare fixed vs variable tariffs based on my specific usage profile and consumption data"
 
 - Smart Consumption Optimization
- - "What time-of-use tariff would work best for my household's energy consumption patterns?"
+  - "What time-of-use tariff would work best for my household's energy consumption patterns?"
 
 "Which appliances are driving my peak energy costs and how can I schedule them efficiently?"
 
