@@ -8,23 +8,17 @@
 
 - Smart Consumption Optimization
   - "What time-of-use tariff would work best for my household's energy consumption patterns?"
+  - "Which appliances are driving my peak energy costs and how can I schedule them efficiently?"
+  - "What are the most effective energy-saving measures for my specific consumption profile?"
+  - "How can I reduce my carbon footprint while maintaining comfort and lowering costs?"
 
-"Which appliances are driving my peak energy costs and how can I schedule them efficiently?"
+- Market Insights & Social Impact
+  - "What government energy efficiency schemes or grants am I eligible for?"
+  - "How does my energy consumption compare to similar households in my area?"
+  - "What's the environmental impact of my current energy usage and how can I improve it?"
+  - "Which renewable energy options provide the best return on investment for my situation?"
 
-"What are the most effective energy-saving measures for my specific consumption profile?"
-
-"How can I reduce my carbon footprint while maintaining comfort and lowering costs?"
-
-Market Insights & Social Impact
-"What government energy efficiency schemes or grants am I eligible for?"
-
-"How does my energy consumption compare to similar households in my area?"
-
-"What's the environmental impact of my current energy usage and how can I improve it?"
-
-"Which renewable energy options provide the best return on investment for my situation?"
-
-Predictive Analytics & Planning
+- Predictive Analytics & Planning
 "Based on my meter data, what will my energy costs be next quarter?"
 
 "How can I prepare for seasonal energy price fluctuations?"
