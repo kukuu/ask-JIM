@@ -3,7 +3,7 @@
 (Author and Owner: _Alexander Adu-Sarkodie_)
 
 
-A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint. 
+A unique custom domain-based Artificial Intelligence, Machine Learning, RAG and Large Language Model trusted companion with all the information you need about energy savings, consumption and social impact. **JIM** combines real-time meter data analysis with comprehensive energy market intelligence to deliver personalised, actionable insights that save you money while reducing your environmental footprint.  
 
 It's  backend server component leverages the core LLM-NLP-RAG pipeline through a sophisticated multi-layered algorithm that processes natural language queries against real-time energy data. The pipeline begins with an HTTP POST endpoint (/api/llm/query) that receives user questions and employs pattern-matching NLP to categorize queries into specific analytical domains - statistical analysis, load forecasting, performance evaluation, or tariff optimization.  
 
